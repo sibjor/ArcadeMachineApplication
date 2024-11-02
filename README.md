@@ -9,7 +9,7 @@
 ```mermaid
   graph TD;
       A[Game Submodule 1]-->B[LauncherRepo];
-      C[Game Submodle 2]-->B[LauncherRepo];
+      C[Game Submodule 2]-->B[LauncherRepo];
 ```
 
 ## How it works:

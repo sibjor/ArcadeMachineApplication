@@ -1,10 +1,10 @@
 # ArcadeMachineApplication
  Navigates between and executes games presented at Forsbergs Christmas Market 2024
 
- ## Example UI layout 
+ ## Example UI layout: 
 ![UI](ArcadeMachineUI.png)
 
-## Stack
+## Stack:
 * WPF (xaml and csharp)
 * Packages like: wpfgif, wpfjson
 

@@ -3,7 +3,7 @@
 
 ## Stack
 * WPF (xaml and csharp)
-* Packages like: wpggif, wpfjson
+* Packages like: wpfgif, wpfjson
 
 ## Diagram of system structure:
 ```mermaid

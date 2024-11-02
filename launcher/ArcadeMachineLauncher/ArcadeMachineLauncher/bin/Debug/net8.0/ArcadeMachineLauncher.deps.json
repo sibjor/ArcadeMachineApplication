@@ -10,7 +10,8 @@
         "dependencies": {
           "Microsoft.Windows.Compatibility": "8.0.10",
           "Microsoft.Xaml.Behaviors.Wpf": "1.1.135",
-          "WpfAnimatedGif": "2.0.2"
+          "WpfAnimatedGif": "2.0.2",
+          "WpfJson": "1.0.0"
         },
         "runtime": {
           "ArcadeMachineLauncher.dll": {}
@@ -753,6 +754,14 @@
             "fileVersion": "2.0.2.0"
           }
         }
+      },
+      "WpfJson/1.0.0": {
+        "runtime": {
+          "lib/MultiLangInCSV.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1167,6 +1176,13 @@
       "sha512": "sha512-B0j9SqtThyHVTiOPvu6yR+39Te0g3o+7Jjb+qEm7+Iz1HRqbE5/4QV+ntHWOYYBPOUFr9x1mdzGl/EzWP+nKiA==",
       "path": "wpfanimatedgif/2.0.2",
       "hashPath": "wpfanimatedgif.2.0.2.nupkg.sha512"
+    },
+    "WpfJson/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yjc56nY696h5uhsCIOPzpOfS6jTT+baEyutHVioUMspuRML2RVLj4f7w5Y3s3Z/lYW1aqrnB7UhVXikyOUIXGw==",
+      "path": "wpfjson/1.0.0",
+      "hashPath": "wpfjson.1.0.0.nupkg.sha512"
     }
   }
 }

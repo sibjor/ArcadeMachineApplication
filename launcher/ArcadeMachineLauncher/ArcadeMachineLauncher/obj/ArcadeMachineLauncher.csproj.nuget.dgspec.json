@@ -54,6 +54,10 @@
             "WpfAnimatedGif": {
               "target": "Package",
               "version": "[2.0.2, )"
+            },
+            "WpfJson": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [

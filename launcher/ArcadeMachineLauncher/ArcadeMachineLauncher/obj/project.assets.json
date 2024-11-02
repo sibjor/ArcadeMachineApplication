@@ -1163,6 +1163,15 @@
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WPF"
         ]
+      },
+      "WpfJson/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/MultiLangInCSV.dll": {}
+        },
+        "runtime": {
+          "lib/MultiLangInCSV.dll": {}
+        }
       }
     }
   },
@@ -3096,13 +3105,47 @@
         "wpfanimatedgif.2.0.2.nupkg.sha512",
         "wpfanimatedgif.nuspec"
       ]
+    },
+    "WpfJson/1.0.0": {
+      "sha512": "yjc56nY696h5uhsCIOPzpOfS6jTT+baEyutHVioUMspuRML2RVLj4f7w5Y3s3Z/lYW1aqrnB7UhVXikyOUIXGw==",
+      "type": "package",
+      "path": "wpfjson/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "assets/json.txt",
+        "content/assets/json.txt",
+        "content/docs/readme.txt",
+        "content/images/WpfJson.ico",
+        "content/images/WpfJson.png",
+        "content/install/install.zip",
+        "content/labview/LV2020_Sample.zip",
+        "content/languages/WpfJson_en_us.csv",
+        "content/languages/WpfJson_zh_cn.csv",
+        "content/lib/MultiLangInCSV.dll",
+        "docs/WpfJson.docx",
+        "docs/readme.md",
+        "docs/readme.txt",
+        "images/WpfJson.png",
+        "install/install.zip",
+        "labview/LV2020_Sample.zip",
+        "languages/WpfJson_en_us.csv",
+        "languages/WpfJson_zh_cn.csv",
+        "lib/MultiLangInCSV.dll",
+        "lib/net48/WpfJsonForLV.dll",
+        "sourcecode/WinForm_Sample.zip",
+        "sourcecode/WpfJsonForLV.zip",
+        "wpfjson.1.0.0.nupkg.sha512",
+        "wpfjson.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
       "Microsoft.Windows.Compatibility >= 8.0.10",
       "Microsoft.Xaml.Behaviors.Wpf >= 1.1.135",
-      "WpfAnimatedGif >= 2.0.2"
+      "WpfAnimatedGif >= 2.0.2",
+      "WpfJson >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3158,6 +3201,10 @@
           "WpfAnimatedGif": {
             "target": "Package",
             "version": "[2.0.2, )"
+          },
+          "WpfJson": {
+            "target": "Package",
+            "version": "[1.0.0, )"
           }
         },
         "imports": [
@@ -3182,5 +3229,17 @@
         "runtimeIdentifierGraphPath": "C:\\Users\\sixte_8tnpycv\\.dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WpfJson 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WpfJson",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
 }

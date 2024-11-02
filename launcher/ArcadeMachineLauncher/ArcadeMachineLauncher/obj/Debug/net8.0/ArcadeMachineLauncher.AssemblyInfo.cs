@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArcadeMachineLauncher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+426ef28197a5eec09c3549ba7590876a6cf76069")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArcadeMachineLauncher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArcadeMachineLauncher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

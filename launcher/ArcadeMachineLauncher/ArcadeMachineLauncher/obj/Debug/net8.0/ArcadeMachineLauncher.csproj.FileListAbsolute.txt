@@ -109,3 +109,5 @@ C:\Users\sixte_8tnpycv\ArcadeMachineApplication\launcher\ArcadeMachineLauncher\A
 C:\Users\sixte_8tnpycv\ArcadeMachineApplication\launcher\ArcadeMachineLauncher\ArcadeMachineLauncher\obj\Debug\net8.0\ArcadeMachineLauncher.pdb
 C:\Users\sixte_8tnpycv\ArcadeMachineApplication\launcher\ArcadeMachineLauncher\ArcadeMachineLauncher\obj\Debug\net8.0\ArcadeMachineLauncher.genruntimeconfig.cache
 C:\Users\sixte_8tnpycv\ArcadeMachineApplication\launcher\ArcadeMachineLauncher\ArcadeMachineLauncher\obj\Debug\net8.0\ref\ArcadeMachineLauncher.dll
+C:\Users\sixte_8tnpycv\ArcadeMachineApplication\launcher\ArcadeMachineLauncher\ArcadeMachineLauncher\bin\Debug\net8.0\MultiLangInCSV.dll
+C:\Users\sixte_8tnpycv\ArcadeMachineApplication\launcher\ArcadeMachineLauncher\ArcadeMachineLauncher\obj\Debug\net8.0\ArcadeMachineLauncher.sourcelink.json

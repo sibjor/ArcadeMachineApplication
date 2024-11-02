@@ -4,10 +4,20 @@
         WindowState="Maximized"
         WindowStyle="None"
         Title="Arcade Machine Launcher">
-    <Grid> <!-- Grid for the whole window -->
-        <Grid> <!-- Grid for the  -->
-            
+    <Grid Margin="0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" /> <!-- First column for games list -->
+            <ColumnDefinition Width="*" /> <!-- Second column for games presentation -->
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0" Margin="0" Background="LightGray"> <!-- Grid for the games list -->
+            <!-- Content for games list -->
+        </Grid>
+        
+        <Grid Grid.Column="1" Margin="0" Background="LightBlue"> <!-- Grid for the games presentation -->
+            <!-- Content for games presentation -->
         </Grid>
     </Grid>
+
 
 </Window>

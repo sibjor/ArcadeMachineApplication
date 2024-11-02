@@ -5,6 +5,9 @@
 * WPF (xaml and csharp)
 * Packages like: wpfgif, wpfjson
 
+## Example UI layout 
+![UI](ArcadeMachineUI.png)
+
 ## Diagram of system structure:
 ```mermaid
   graph TD;
@@ -25,5 +28,4 @@
 ## Notes:
 * Your private repos (the submodules) will be unavailible though this repo is public, so don't worry about that!
 
-## Example UI layout 
-![UI](ArcadeMachineUI.png)
+

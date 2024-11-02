@@ -20,4 +20,7 @@
 * The build folder created your engine of choice
 * With a .gif file representing your game
 * With a metadata.json file with filled values, the keys defined by this project however
+* With a license
 
+## Notes:
+* Your private repos (the submodules) will be unavailible though this repo is public, so don't worry about that!

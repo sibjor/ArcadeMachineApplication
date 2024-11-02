@@ -1,0 +1,13 @@
+<Window x:Class="ArcadeMachineLauncher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowState="Maximized"
+        WindowStyle="None"
+        Title="Arcade Machine Launcher">
+    <Grid> <!-- Grid for the whole window -->
+        <Grid> <!-- Grid for the  -->
+            
+        </Grid>
+    </Grid>
+
+</Window>

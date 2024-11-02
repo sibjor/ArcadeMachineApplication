@@ -1,5 +1,3 @@
-![UI](ArcadeMachineUI.png)
-
 # ArcadeMachineApplication
  Navigates between and executes games presented at Forsbergs Christmas Market 2024
 
@@ -26,3 +24,5 @@
 
 ## Notes:
 * Your private repos (the submodules) will be unavailible though this repo is public, so don't worry about that!
+
+![UI](ArcadeMachineUI.png)

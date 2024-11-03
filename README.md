@@ -11,8 +11,8 @@
 ## Diagram of system structure:
 ```mermaid
   graph TD;
-      A[Game Binaries Submodule 1]-->B[LauncherRepo];
-      C[Game Binaries Submodule 2]-->B[LauncherRepo];
+      A[LauncherRepo]-->B[git submodule add][Game Binaries Submodule 1];
+      A[LauncherRepo]-->[git submodule add]C[Game Binaries Submodule 2];
 ```
 
 ## How it works:

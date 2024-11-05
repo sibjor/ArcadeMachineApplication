@@ -1,21 +1,14 @@
 using System.IO;
 
-namespace ArcadeMachineLauncher;
-
-public class DirectoryManeuver
+namespace ArcadeMachineLauncher
 {
-    
-    // GetDirectory & GetFiles shall be used
-    public void DirectoryMethod()
+    public class DirectoryManeuver
     {
-        Directory.SetCurrentDirectory(@"..\..\..\..\..\..\games");
-        Console.WriteLine(Directory.GetCurrentDirectory());
-        
-        string[] directories = Directory.GetDirectories(@".\");
-        
-        foreach (var dir in directories)
+        // Get directories from the games folder
+        public string[] DirectoryMethod()
         {
-            Console.WriteLine(dir);
+            Directory.SetCurrentDirectory(@"..\..\..\..\..\..\games");
+            return Directory.GetDirectories(@".\");
         }
     }
 }

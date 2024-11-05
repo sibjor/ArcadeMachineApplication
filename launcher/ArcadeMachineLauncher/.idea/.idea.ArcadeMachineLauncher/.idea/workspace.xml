@@ -8,35 +8,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57848418-5450-4894-836a-824811da7f59" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ArcadeMachineLauncher/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ArcadeMachineLauncher/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ArcadeMachineLauncher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ArcadeMachineLauncher/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/ArcadeMachineLauncher.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/ArcadeMachineLauncher.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/DirectoryManeuver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/DirectoryManeuver.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/FirstWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/FirstWindow.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/bin/Debug/net8.0/ArcadeMachineLauncher.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/bin/Debug/net8.0/ArcadeMachineLauncher.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/FirstWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/FirstWindow.xaml.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/bin/Debug/net8.0/ArcadeMachineLauncher.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/bin/Debug/net8.0/ArcadeMachineLauncher.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/bin/Debug/net8.0/ArcadeMachineLauncher.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/bin/Debug/net8.0/ArcadeMachineLauncher.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/bin/Debug/net8.0/ArcadeMachineLauncher.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/bin/Debug/net8.0/ArcadeMachineLauncher.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/ArcadeMachineLauncher.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/ArcadeMachineLauncher.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.g.resources" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.g.resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher_MarkupCompile.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher_MarkupCompile.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ArcadeMachineLauncher.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/FirstWindow.baml" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/FirstWindow.baml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/FirstWindow.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/FirstWindow.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ref/ArcadeMachineLauncher.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/ref/ArcadeMachineLauncher.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/refint/ArcadeMachineLauncher.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/Debug/net8.0/refint/ArcadeMachineLauncher.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ArcadeMachineLauncher/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,20 +54,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.ArcadeMachineLauncher.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.ArcadeMachineLauncher.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ArcadeMachineLauncher" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -109,6 +99,10 @@
       <workItem from="1730376338147" duration="2267000" />
       <workItem from="1730378648518" duration="194000" />
       <workItem from="1730559429339" duration="7869000" />
+      <workItem from="1730712917563" duration="65000" />
+      <workItem from="1730721114474" duration="182000" />
+      <workItem from="1730730083708" duration="52000" />
+      <workItem from="1730823169388" duration="3597000" />
     </task>
     <servers />
   </component>

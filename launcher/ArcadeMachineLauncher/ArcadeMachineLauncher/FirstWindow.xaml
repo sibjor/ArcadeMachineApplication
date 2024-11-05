@@ -10,14 +10,47 @@
             <ColumnDefinition Width="*" /> <!-- Second column for games presentation -->
         </Grid.ColumnDefinitions>
 
-        <Grid Grid.Column="0" Margin="0" Background="LightGray"> <!-- Grid for the games list -->
-            <!-- Content for games list -->
+        <!-- Left Grid for Games List -->
+        <Grid Grid.Column="0" Margin="0" Background="LightGray">
+            <StackPanel>
+                <TextBlock Text="Choose Game Below!" 
+                           FontSize="100" 
+                           FontWeight="Bold" 
+                           Margin="10" 
+                           HorizontalAlignment="Center"/>
+                <ListBox x:Name="GamesListBox" 
+                         Margin="10"
+                         Height="100"
+                         FontSize="75" 
+                         SelectionMode="Single"/>
+            </StackPanel>
         </Grid>
         
-        <Grid Grid.Column="1" Margin="0" Background="LightBlue"> <!-- Grid for the games presentation -->
-            <!-- Content for games presentation -->
+        <!-- Right Grid for Presentation and Buttons -->
+        <Grid Grid.Column="1" Margin="0" Background="LightBlue">
+            <Grid>
+                <!-- Bottom Left About Button -->
+                <Button x:Name="AboutButton" 
+                        Content="About" 
+                        HorizontalAlignment="Left" 
+                        VerticalAlignment="Bottom" 
+                        Width="500"
+                        Height="250"
+                        Margin="10" 
+                        Padding="10,5"
+                        Click="AboutButton_Click"/>
+                
+                <!-- Bottom Right Start Button -->
+                <Button x:Name="StartButton" 
+                        Content="Start" 
+                        HorizontalAlignment="Right" 
+                        VerticalAlignment="Bottom" 
+                        Width="500"
+                        Height="250"
+                        Margin="10" 
+                        Padding="10,5"
+                        Click="StartButton_Click"/>
+            </Grid>
         </Grid>
     </Grid>
-
-
 </Window>
